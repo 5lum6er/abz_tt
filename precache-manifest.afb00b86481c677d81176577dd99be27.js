@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "331ca7de76aecaec6dcdb58a8bf1d039",
+    "revision": "072ea41c7eeb7952c9566d4ed9fd73d8",
     "url": "/http//5lum6er.github.io/abz_tt/index.html"
   },
   {
-    "revision": "11755df95a247aa5b25b",
+    "revision": "9c8869d4119cd5e46c20",
     "url": "/http//5lum6er.github.io/abz_tt/static/css/main.f6cffc85.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11755df95a247aa5b25b",
-    "url": "/http//5lum6er.github.io/abz_tt/static/js/main.ba081c5c.chunk.js"
+    "revision": "9c8869d4119cd5e46c20",
+    "url": "/http//5lum6er.github.io/abz_tt/static/js/main.0ae4d46c.chunk.js"
   },
   {
     "revision": "6ef22c54fdf446a3bd1d",
