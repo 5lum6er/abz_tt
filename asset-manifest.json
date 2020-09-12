@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//5lum6er.github.io/abz_tt/static/css/main.f6cffc85.chunk.css",
-    "main.js": "/http//5lum6er.github.io/abz_tt/static/js/main.0ae4d46c.chunk.js",
-    "main.js.map": "/http//5lum6er.github.io/abz_tt/static/js/main.0ae4d46c.chunk.js.map",
-    "runtime-main.js": "/http//5lum6er.github.io/abz_tt/static/js/runtime-main.b492c2d6.js",
-    "runtime-main.js.map": "/http//5lum6er.github.io/abz_tt/static/js/runtime-main.b492c2d6.js.map",
-    "static/js/2.1f5b9346.chunk.js": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js",
-    "static/js/2.1f5b9346.chunk.js.map": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js.map",
-    "index.html": "/http//5lum6er.github.io/abz_tt/index.html",
-    "precache-manifest.afb00b86481c677d81176577dd99be27.js": "/http//5lum6er.github.io/abz_tt/precache-manifest.afb00b86481c677d81176577dd99be27.js",
-    "service-worker.js": "/http//5lum6er.github.io/abz_tt/service-worker.js",
-    "static/css/main.f6cffc85.chunk.css.map": "/http//5lum6er.github.io/abz_tt/static/css/main.f6cffc85.chunk.css.map",
-    "static/js/2.1f5b9346.chunk.js.LICENSE.txt": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js.LICENSE.txt"
+    "main.css": "/abz_tt/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/abz_tt/static/js/main.0ae4d46c.chunk.js",
+    "main.js.map": "/abz_tt/static/js/main.0ae4d46c.chunk.js.map",
+    "runtime-main.js": "/abz_tt/static/js/runtime-main.b4448eee.js",
+    "runtime-main.js.map": "/abz_tt/static/js/runtime-main.b4448eee.js.map",
+    "static/js/2.1f5b9346.chunk.js": "/abz_tt/static/js/2.1f5b9346.chunk.js",
+    "static/js/2.1f5b9346.chunk.js.map": "/abz_tt/static/js/2.1f5b9346.chunk.js.map",
+    "index.html": "/abz_tt/index.html",
+    "precache-manifest.75ab9babd8fd69ac537dfc2731b5def2.js": "/abz_tt/precache-manifest.75ab9babd8fd69ac537dfc2731b5def2.js",
+    "service-worker.js": "/abz_tt/service-worker.js",
+    "static/css/main.f6cffc85.chunk.css.map": "/abz_tt/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.1f5b9346.chunk.js.LICENSE.txt": "/abz_tt/static/js/2.1f5b9346.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b492c2d6.js",
+    "static/js/runtime-main.b4448eee.js",
     "static/js/2.1f5b9346.chunk.js",
     "static/css/main.f6cffc85.chunk.css",
     "static/js/main.0ae4d46c.chunk.js"
