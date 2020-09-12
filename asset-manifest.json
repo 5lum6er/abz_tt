@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//5lum6er.github.io/abz_tt/static/css/main.f6cffc85.chunk.css",
+    "main.js": "/http//5lum6er.github.io/abz_tt/static/js/main.ba081c5c.chunk.js",
+    "main.js.map": "/http//5lum6er.github.io/abz_tt/static/js/main.ba081c5c.chunk.js.map",
+    "runtime-main.js": "/http//5lum6er.github.io/abz_tt/static/js/runtime-main.b492c2d6.js",
+    "runtime-main.js.map": "/http//5lum6er.github.io/abz_tt/static/js/runtime-main.b492c2d6.js.map",
+    "static/js/2.1f5b9346.chunk.js": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js",
+    "static/js/2.1f5b9346.chunk.js.map": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js.map",
+    "index.html": "/http//5lum6er.github.io/abz_tt/index.html",
+    "precache-manifest.b57301c12ba726ed08e79fa00f9128b1.js": "/http//5lum6er.github.io/abz_tt/precache-manifest.b57301c12ba726ed08e79fa00f9128b1.js",
+    "service-worker.js": "/http//5lum6er.github.io/abz_tt/service-worker.js",
+    "static/css/main.f6cffc85.chunk.css.map": "/http//5lum6er.github.io/abz_tt/static/css/main.f6cffc85.chunk.css.map",
+    "static/js/2.1f5b9346.chunk.js.LICENSE.txt": "/http//5lum6er.github.io/abz_tt/static/js/2.1f5b9346.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b492c2d6.js",
+    "static/js/2.1f5b9346.chunk.js",
+    "static/css/main.f6cffc85.chunk.css",
+    "static/js/main.ba081c5c.chunk.js"
+  ]
+}
